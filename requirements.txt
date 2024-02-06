@@ -1,0 +1,11 @@
+sounddevice
+pydub
+numpy
+keyboard
+transformers
+urllib3==1.26.6
+soundfile
+datasets
+librosa
+cx_Freeze
+nuitka
